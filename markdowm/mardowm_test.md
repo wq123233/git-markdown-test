@@ -26,4 +26,4 @@ nihao,`std::cout << std::endl`
 nmkk
 njnjn
 
-test
+test 121212121
