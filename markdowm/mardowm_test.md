@@ -20,7 +20,8 @@ nihao,`std::cout << std::endl`
     45454545
     njnj
     koko
-    1212112121212
+    12121121212121212121212
+    7878787
 
 nmkk
 njnjn
